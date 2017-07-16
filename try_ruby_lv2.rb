@@ -14,8 +14,11 @@
 
 # assign the array into var
 ticket = [12, 47, 35]
+ticket
 
+# sort and sort, sort from lowest into highest
+ticket.sort!
 
-
-
+# jika sort!, maka ia merubah nilai ticket dengan sort yang sudah ada
+# jika sort, maka tidak ada perubahan pada value sort
 
